@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">XQ</string>
+    <string name="tv1"><a href='http://aq.qq.com'>忘记密码</a></string>
+    <string name="yx"><a href='http://www.4399.com/'>游戏</a></string>
+    <string name="gw"><a href='https://www.taobao.com/'>购物</a></string>
+    <string name="kyk"><a href='http://www.toutiao.com/'>看一看</a></string>
+    <string name="sys"><a href='https://www.sogou.com/'>搜一搜</a></string>
+    <string name="fj"><a href='http://www.baidu.com/'>附近的人</a></string>
+    <string name="yinyue"><a href='https://music.163.com/'>音乐</a></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

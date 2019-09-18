@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ZxActivity">
+    <item android:title="发起群聊"
+        android:id="@+id/group">
+    </item>
+    <item android:title="添加朋友"
+      android:id="@+id/addfriend">
+    </item>
+    <item android:title="扫一扫"
+        android:id="@+id/sao">
+    </item>
+    <item android:title="收付款"
+        android:id="@+id/manney">
+    </item>
+    <item android:title="帮助与反馈"
+        android:id="@+id/help">
+    </item>
+</menu>
